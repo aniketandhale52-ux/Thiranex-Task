@@ -1,0 +1,32 @@
+DATA CLEANING & VISUALIZATION PROJECT
+
+1. Objective
+The objective of this project is to clean a raw customer purchase dataset, handle missing values, duplicates and outliers, and visualize important business insights using Python.
+
+2. Dataset
+The dataset contains customer demographics, income, purchase amount, product category, city and ratings.
+
+3. Data Cleaning
+• Missing numeric values were replaced using the median.
+• Duplicate records were identified and removed.
+• Extreme values in Age and Purchase_Amount were handled using the IQR method.
+• The cleaned dataset was exported as cleaned_customer_purchases.csv.
+
+4. Visualization
+The project includes:
+• Average purchase amount by product category
+• Total purchase amount by city
+• Age distribution
+• Monthly income versus purchase amount
+
+5. Key Findings
+• Electronics has a comparatively high average purchase amount.
+• Major cities contribute a large share of total purchases.
+• Most customers fall within a normal working-age range after outlier treatment.
+• Higher monthly income generally shows a positive relationship with purchase amount, although the relationship is not perfect.
+
+6. Tools Used
+Python, Pandas, NumPy, Matplotlib and Seaborn.
+
+7. Expected Learning Outcome
+This project demonstrates the complete basic workflow of data preprocessing, exploratory data analysis, visualization and data storytelling.

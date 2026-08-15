@@ -1,0 +1,16 @@
+Customer_ID,Age,Gender,City,Monthly_Income,Purchase_Amount,Product_Category,Rating
+101,22.0,Male,Pune,25000.0,1200.0,Electronics,4.5
+102,35.0,Female,Mumbai,42000.0,3500.0,Fashion,4.0
+103,29.0,Female,Pune,38000.0,2800.0,Grocery,3.5
+104,,Male,Nashik,31000.0,2100.0,Fashion,4.0
+105,41.0,Female,Mumbai,52000.0,6200.0,Electronics,4.8
+106,52.0,Male,Pune,68000.0,8500.0,Electronics,4.7
+107,31.0,Female,Nagpur,,1900.0,Grocery,3.9
+108,28.0,Male,Pune,29000.0,,Fashion,
+109,45.0,Female,Mumbai,47000.0,5400.0,Electronics,4.2
+110,38.0,Male,Nashik,36000.0,3200.0,Grocery,3.8
+110,38.0,Male,Nashik,36000.0,3200.0,Grocery,3.8
+111,27.0,Female,Pune,33000.0,2400.0,Fashion,4.1
+112,,Female,Nagpur,45000.0,4100.0,Electronics,4.4
+113,33.0,Male,Mumbai,,3900.0,Grocery,3.6
+114,150.0,Female,Pune,55000.0,99999.0,Electronics,5.0
