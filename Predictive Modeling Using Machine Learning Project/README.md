@@ -369,13 +369,10 @@ qualified healthcare professionals.
 
 ## 👨‍💻 Author
 
-**Darshan Bhor**
-
-💼 LinkedIn:
-https://www.linkedin.com/in/darshan-bhor-55ab22381 
+**Aniket Andhale** 
 
 🐙 GitHub:
-https://github.com/darshanbhor2006
+https://github.com/aniketandhale52-ux
 
 ## ⭐ Project Highlights
 
